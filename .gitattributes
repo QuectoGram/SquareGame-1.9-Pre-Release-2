@@ -1,0 +1,3 @@
+*.bat linguist-detectable
+*.cmd linguist-detectable
+*.sh linguist-detectable
