@@ -1,0 +1,3 @@
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-raylib
+pacman -S mingw-w64-ucrt-x86_64-yaml-cpp
