@@ -3,3 +3,4 @@
 *.sh linguist-detectable
 *.cs linguist-detectable
 *.yml linguist-detectable
+*.rc linguist-detectable
