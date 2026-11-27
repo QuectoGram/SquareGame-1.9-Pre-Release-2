@@ -2,3 +2,4 @@
 *.cmd linguist-detectable
 *.sh linguist-detectable
 *.cs linguist-detectable
+*.yml linguist-detectable
